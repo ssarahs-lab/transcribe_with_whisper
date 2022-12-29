@@ -11,7 +11,7 @@ Mostly [OpenAI's Whisper](https://openai.com/blog/whisper/) did the heavy liftin
 ### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1. Install FFmpeg
 Whisper also requires [FFmpeg](https://ffmpeg.org/), an audio-processing library. If FFmpeg is not already installed on your machine, use one of the below commands to install it.
 
-![enter image description here](https://i.imgur.com/AETpOdt.png)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![commands for Linux/MacOS/Windows](https://i.imgur.com/AETpOdt.png)
 
 ### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2. Install Whisper and pydub
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; In the terminal: 
