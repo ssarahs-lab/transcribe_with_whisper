@@ -9,7 +9,7 @@ Mostly [OpenAI's Whisper](https://openai.com/blog/whisper/) did the heavy liftin
 ## :electric_plug: Installation Instructions 
 
 ### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1. Install FFmpeg
-Whisper also requires [FFmpeg](https://ffmpeg.org/), an audio-processing library. If FFmpeg is not already installed on your machine, use one of the below commands to install it.
+
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![commands for Linux/MacOS/Windows](https://i.imgur.com/AETpOdt.png)
 
