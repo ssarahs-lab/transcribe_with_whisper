@@ -1,5 +1,5 @@
 ## Backstory
-One of my friends was writing notes for her psychology lectures and had been telling me that her lecturer spoke so fast that she was rewinding every minute or so to make sure her notes were correct.  As a friend, I thought I'd help her out by making a program to transcribe all the audio :) 
+*One of my friends was writing notes for her psychology lectures and had been telling me that her lecturer spoke so fast that she was rewinding every minute or so to make sure her notes were correct.  As a friend, I thought I'd help her out by making a program to transcribe all the audio :)* 
 
 ### TLDR: 
 Friend writing notes for lectures, I made a program to transcribe it all for her.
@@ -8,32 +8,33 @@ Mostly [OpenAI's Whisper](https://openai.com/blog/whisper/) did the heavy liftin
 
 ## Installation Instructions
 
-### 1. Install FFmpeg
+### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1. Install FFmpeg
 Whisper also requires [FFmpeg](https://ffmpeg.org/), an audio-processing library. If FFmpeg is not already installed on your machine, use one of the below commands to install it.
 
-For Mac users:
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; For Mac users:
 
     brew install ffmpeg
-For Windows users:
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; For Windows users:
 
     chco install ffmpeg
     
-For Linux users:
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; For Linux users:
 
     Linux sudo apt update && sudo apt install ffmpeg
 
-### 2. Install Whisper and pydub
-In the terminal: 
+### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2. Install Whisper and pydub
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; In the terminal: 
 
        pip install git+https://github.com/openai/whisper.git
-       pip install pydub
+       pip i
 
-### 3. Add your file to the same folder as transcribe.py
+### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 3. Add your file to the same folder as transcribe.py
 
 
-### 4. Run the program
+### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 4. Run the program
 
-In the terminal: 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; In the terminal: 
 
     python transcribe.py
 
