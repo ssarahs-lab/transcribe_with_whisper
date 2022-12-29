@@ -1,4 +1,4 @@
-# transcribe_with_whisper
+Transcribe with Whisper 
 
 ## Backstory
 One of my friends was writing notes for her psychology lectures and had been telling me that her lecturer spoke so fast that she was rewinding every minute or so to make sure her notes were correct.  As a friend, I thought I'd help her out by making a program to transcribe all the audio :) 
